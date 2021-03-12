@@ -1,0 +1,4 @@
+DIMENSION
+5
+PALABRAS
+kiwi 5

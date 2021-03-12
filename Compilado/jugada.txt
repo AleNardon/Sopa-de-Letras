@@ -1,0 +1,5 @@
+DIMENSION
+7
+PALABRAS
+rata 5
+maria 4
